@@ -1,0 +1,9 @@
+This is a PDF parser. Its a great tool to mess around with to search any PDF document for any kewords or phrases you want to look for.
+
+Its great if youre in college and that type of thing.
+
+* Make sure you change the file path on line 37 to the filepath of your PDF and run. The console will ask you what you want to search for and it will print out
+what line and page the query is in, along with how many times it accurs in the PDF.
+
+
+Enjoy!
